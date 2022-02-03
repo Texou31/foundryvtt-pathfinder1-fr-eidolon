@@ -30,8 +30,8 @@
     }
   ],
   "socket": false,
-  "manifest": "TO MODIFY https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "TO MODIFY https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "manifest": "https://raw.githubusercontent.com/Texou31/foundryvtt-pathfinder1-fr-eidolon/master/module.json",
+  "download": "https://github.com/Texou31/foundryvtt-pathfinder1-fr-eidolon/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
