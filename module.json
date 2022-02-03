@@ -5,7 +5,7 @@
   "author": "Texou31",
   "authors": [],
   "flags": {},
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
   "scripts": [],
@@ -16,7 +16,7 @@
     {
       "name": "eidolon",
       "label": "Eidolon",
-      "path": "./packs/eidolon.db",
+      "path": "./packs/eidolon-fr.db",
       "entity": "Item",
       "type": "Item",
       "private": false
