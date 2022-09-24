@@ -1,13 +1,17 @@
 {
-  "name": "pf1-fr-eidolon",
+  "id": "pf1-fr-eidolon",
   "title": "Pathfinder 1 French - Eidolon Add-On",
   "description": "A collection with everything to play with an Eidolon",
   "author": "Texou31",
   "authors": [],
   "flags": {},
   "version": "1.0.4",
-  "minimumCoreVersion": "0.8.6",
+  "minimumCoreVersion": 9,
   "compatibleCoreVersion": "9",
+  "compatibility": {
+    "minimum":9,
+    "verified": "9.120"
+  }
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -20,13 +24,6 @@
       "entity": "Item",
       "type": "Item",
       "private": false
-    }
-  ],
-  "system": [],
-  "dependencies": [
-    {
-      "name": "pf1-fr",
-      "type": "module"
     }
   ],
   "socket": false,
