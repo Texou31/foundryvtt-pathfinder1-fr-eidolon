@@ -16,10 +16,9 @@
     {
       "name": "eidolon",
       "label": "Eidolon",
+      "system": "pf1",
       "path": "./packs/eidolon-fr.db",
-      "entity": "Item",
-      "type": "Item",
-      "private": false
+      "type": "Item"
     }
   ],
 
